@@ -1,0 +1,5 @@
+/Users/tanjiantao/work/test/node-addon-test/src/deps/minihttp/CMakeFiles/minihttp.dir
+/Users/tanjiantao/work/test/node-addon-test/src/deps/minihttp/CMakeFiles/example1.dir
+/Users/tanjiantao/work/test/node-addon-test/src/deps/minihttp/CMakeFiles/example2.dir
+/Users/tanjiantao/work/test/node-addon-test/src/deps/minihttp/CMakeFiles/edit_cache.dir
+/Users/tanjiantao/work/test/node-addon-test/src/deps/minihttp/CMakeFiles/rebuild_cache.dir

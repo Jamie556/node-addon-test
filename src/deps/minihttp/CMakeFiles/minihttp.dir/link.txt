@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libminihttp.a CMakeFiles/minihttp.dir/minihttp.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libminihttp.a
